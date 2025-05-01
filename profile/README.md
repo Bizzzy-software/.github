@@ -1,3 +1,8 @@
+Explore a new world of gig opportunities with 'Bizzzy'—your mobile platform for finding jobs and increasing your earnings. 
+
+Check out [website](https://orchlon.dev) for download links and previews.
+
+
 ### Features: (Bizzzy application)
 
 - **Create your Handy profile**: Create a professional profile to showcase handyman skills and attract new gig opportunities. 
